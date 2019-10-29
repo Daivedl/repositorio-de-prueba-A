@@ -1,7 +1,0 @@
-jansdlkamsdlmaslkdas
-sd
-a
-sdasd
-as
-da
-git config --global user.name
